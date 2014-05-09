@@ -1,1 +1,0 @@
-https://count-xero.mingle.thoughtworks.com/api/v2/projects/test_project/cards/6.xml
